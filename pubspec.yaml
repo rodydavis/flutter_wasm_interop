@@ -1,0 +1,19 @@
+name: flutter_wasm_interop
+description: A Flutter + WebAssembly Interop.
+version: 0.0.2+1
+author: Rody Davis <rody.davis.jr@gmail.com>
+homepage: https://github.com/rodydavis/flutter_wasm_interop
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  wasm_interop: ^1.0.0-dev.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:

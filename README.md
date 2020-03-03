@@ -1,14 +1,14 @@
 # flutter_wasm_interop
 
-A new Flutter package project.
+A new Flutter package to access WebAssembly Modules in Flutter.
 
-## Getting Started
+Basic Idea is to call into WASM in web directly and desktop and mobile will call in to WASM with Wasmer via FFI.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+## Platforms
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+[X] - Web
+[] - MacOS
+[] - Windows
+[] - Linux
+[] - iOS
+[] - Android
