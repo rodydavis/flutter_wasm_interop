@@ -1,6 +1,6 @@
 name: flutter_wasm_interop
 description: A Flutter + WebAssembly Interop.
-version: 0.0.2+1
+version: 0.0.2+2
 author: Rody Davis <rody.davis.jr@gmail.com>
 homepage: https://github.com/rodydavis/flutter_wasm_interop
 
