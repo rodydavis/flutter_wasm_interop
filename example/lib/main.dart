@@ -31,7 +31,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   void initState() {
-    _wasm = WasmLoader.fromAssets('assets/add.wasm');
+    _wasm = WasmLoader.fromAssets('src/add.wasm');
     _wasm.init().then((ready) {
       if (mounted) setState(() {});
     });

@@ -11,6 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   wasm_interop: ^1.0.0-dev.1.0
+  path_provider: ^1.6.4
+  path_provider_macos: ^0.0.4
+  path: ^1.6.4
 
 dev_dependencies:
   flutter_test:
