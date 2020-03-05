@@ -6,16 +6,11 @@ Basic Idea is to call into WASM in web directly and desktop and mobile will call
 
 Online Demo: https://rodydavis.github.io/flutter_wasm_interop/
 
-## Platforms
+## Supported platforms
 
-[X] - Web
-
-[] - MacOS
-
-[] - Windows
-
-[] - Linux
-
-[] - iOS
-
-[] - Android
+- ✅ Web
+- 🔜 MacOS
+- 🔜 Windows
+- 🔜 Linux
+- 🔜 iOS
+- 🔜 Android
