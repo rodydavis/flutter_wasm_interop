@@ -9,8 +9,8 @@ Online Demo: https://rodydavis.github.io/flutter_wasm_interop/
 ## Supported platforms
 
 - Web ✅
-- MacOS 🔜
-- Windows 🔜
-- Linux 🔜
-- iOS 🔜
-- Android 🔜
+- MacOS ❎
+- Windows ❎
+- Linux ❎
+- iOS ❎
+- Android ❎
