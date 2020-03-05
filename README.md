@@ -8,14 +8,11 @@ Online Demo: https://rodydavis.github.io/flutter_wasm_interop/
 
 ## Platforms
 
-[X] - Web
-
-[] - MacOS
-
-[] - Windows
-
-[] - Linux
-
-[] - iOS
-
-[] - Android
+| Platform 	| Supported? 	|
+|----------	|------------	|
+| Web      	| ✅          	|
+| MacOS    	| ❎          	|
+| Windows  	| ❎          	|
+| Linux    	| ❎          	|
+| Android  	| ❎          	|
+| iOS      	| ❎          	|

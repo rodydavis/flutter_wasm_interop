@@ -4,8 +4,16 @@ version: 0.0.2+3
 author: Rody Davis <rody.davis.jr@gmail.com>
 homepage: https://github.com/rodydavis/flutter_wasm_interop
 
+flutter:
+  plugin:
+    platforms:
+      web:
+        fileName: flutter_wasm_interop.dart
+
 environment:
   sdk: ">=2.1.0 <3.0.0"
+  # Flutter versions prior to 1.10 did not support the flutter.plugin.platforms map.
+  flutter: ">=1.10.0 <2.0.0"
 
 dependencies:
   flutter:
@@ -15,5 +23,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-flutter:
